@@ -5,7 +5,7 @@ syncs them to a remote MySQL database, and supports real-time search.
 
 ---
 
-## ✨ Features
+## 📲 Features
 
 - Read contacts directly from the device
 - Display contacts in a RecyclerView with avatar initials
@@ -17,7 +17,7 @@ syncs them to a remote MySQL database, and supports real-time search.
 
 ---
 
-## 🛠 Tech Stack
+## 🔌 Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -31,7 +31,7 @@ syncs them to a remote MySQL database, and supports real-time search.
 
 ---
 
-## 📁 Project Structure
+## 🗂️ Project Structure
 
 ```
 NumberBook/
@@ -57,7 +57,7 @@ NumberBook/
 
 ---
 
-## ⚙️ Setup
+## 🔧 Setup
 
 ### Database
 
@@ -100,7 +100,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ---
 
-## 🧪 Testing
+## 🧩 Testing
 
 ### Postman
 
@@ -135,7 +135,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ---
 
-## 📌 Notes
+## 💾 Notes
 
 - The app requests `READ_CONTACTS` permission at runtime
 - Phone numbers are cleaned before sync (spaces, dashes removed)
@@ -144,7 +144,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ---
 
-## 👩‍💻 Author
+## 📡 Author
 
 **ALAOUI SOSSI Sara**  
 Android Development — 2026
