@@ -1,11 +1,11 @@
-# 📒 NumberBook
+#  NumberBook
 
 A native Android app that reads phone contacts, displays them in a clean UI,
 syncs them to a remote MySQL database, and supports real-time search.
 
 ---
 
-## 📲 Features
+##  Features
 
 - Read contacts directly from the device
 - Display contacts in a RecyclerView with avatar initials
@@ -17,7 +17,7 @@ syncs them to a remote MySQL database, and supports real-time search.
 
 ---
 
-## 🔌 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -31,7 +31,7 @@ syncs them to a remote MySQL database, and supports real-time search.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 NumberBook/
@@ -57,7 +57,7 @@ NumberBook/
 
 ---
 
-## 🔧 Setup
+##  Setup
 
 ### Database
 
@@ -100,7 +100,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ---
 
-## 🧩 Testing
+##  Testing
 
 ### Postman
 
@@ -114,17 +114,17 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 > XAMPP running Apache + MySQL
 
-<img width="845" height="544" alt="image" src="https://github.com/user-attachments/assets/a07096fb-e442-4cd1-a3f8-9dba79c2ad93" />
+<img width="600" height="544" alt="image" src="https://github.com/user-attachments/assets/a07096fb-e442-4cd1-a3f8-9dba79c2ad93" />
 
 
 > Database entries in phpMyAdmin
 
-<img width="1414" height="931" alt="image" src="https://github.com/user-attachments/assets/e0af1763-42f4-4de2-be80-1146ee5a2de1" />
+<img width="700" height="931" alt="image" src="https://github.com/user-attachments/assets/e0af1763-42f4-4de2-be80-1146ee5a2de1" />
 
 
 > Postman — addEntry test
 
-<img width="907" height="675" alt="2" src="https://github.com/user-attachments/assets/15c0a906-5849-4289-b6d5-364c3042ad3f" />
+<img width="600" height="675" alt="2" src="https://github.com/user-attachments/assets/15c0a906-5849-4289-b6d5-364c3042ad3f" />
 
 
 ### Demo
@@ -135,7 +135,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ---
 
-## 💾 Notes
+##  Notes
 
 - The app requests `READ_CONTACTS` permission at runtime
 - Phone numbers are cleaned before sync (spaces, dashes removed)
@@ -144,7 +144,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ---
 
-## 📡 Author
+##  Author
 
 **ALAOUI SOSSI Sara**  
 Android Development — 2026
