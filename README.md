@@ -112,7 +112,7 @@ private static final String BASE_URL = "http://YOUR_LOCAL_IP/numberbook-api/api/
 
 ### Screenshots
 
-<br/><br/>
+
 > XAMPP running Apache + MySQL
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a07096fb-e442-4cd1-a3f8-9dba79c2ad93" />
